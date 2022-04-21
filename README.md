@@ -2,7 +2,7 @@
 
 This assignment includes 2 parts as follows:
 
-**Part 1: Present in the main branch of the git**
+**Part 1: Present in the main and master branch of the git**
 This includes the advanced keras deep learning concepts
 
 i) User custom learning rate scheduler
